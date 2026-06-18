@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 3rd Year B.Tech CSE (AI & ML) Student<br>💻 Exploring Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and Full Stack Development<br>🚀 Building projects in AI/ML and Web Development<br>📚 Continuously improving problem-solving skills through coding challenges and hands-on projects<br>🌱 Turning ideas into projects while expanding my knowledge of AI and software development<br>🤝 Open to learning opportunities, collaborations, and open-source contributions<br>⚡ Fun fact: I enjoy turning random ideas into projects just to see if they work 😄<br>
+Hi, I'm Ankit Sinha 👋 <br> <br>🎓 3rd Year B.Tech CSE (AI & ML) Student<br>💻 Exploring Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and Full Stack Development<br>🚀 Building projects in AI/ML and Web Development<br>📚 Continuously improving problem-solving skills through coding challenges and hands-on projects<br>🌱 Turning ideas into projects while expanding my knowledge of AI and software development<br>🤝 Open to learning opportunities, collaborations, and open-source contributions<br>⚡ Fun fact: I enjoy turning random ideas into projects just to see if they work 😄<br>
 
 
 ## 🌐 Socials:
