@@ -9,7 +9,6 @@ Hi, I'm Ankit Sinha 👋 <br><br>
 🤝 Open to internships, collaborations, and open-source opportunities<br>
 ⚡ Fun fact: I enjoy turning random ideas into projects just to see if they work 😄
 
-## 🌐 Socials:
 ## 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsinha-ai/)
