@@ -1,6 +1,13 @@
 # 💫 About Me:
-Hi, I'm Ankit Sinha 👋 <br> <br>🎓 3rd Year B.Tech CSE (AI & ML) Student<br>💻 Exploring Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and Full Stack Development<br>🚀 Building projects in AI/ML and Web Development<br>📚 Continuously improving problem-solving skills through coding challenges and hands-on projects<br>🌱 Turning ideas into projects while expanding my knowledge of AI and software development<br>🤝 Open to learning opportunities, collaborations, and open-source contributions<br>⚡ Fun fact: I enjoy turning random ideas into projects just to see if they work 😄<br>
-
+Hi, I'm Ankit Sinha 👋 <br><br>
+🎓 3rd Year B.Tech CSE (AI & ML) Student<br>
+🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering<br>
+💻 Building practical AI/ML applications, backend systems, and full-stack projects<br>
+🧠 Currently strengthening Data Structures & Algorithms and problem-solving<br>
+🚀 Working with Python, Java, JavaScript, PyTorch, FastAPI, React, PostgreSQL, and SQL<br>
+🛠️ Built projects across vision-language models, malware analysis, agentic AI, and database systems<br>
+🤝 Open to internships, collaborations, and open-source opportunities<br>
+⚡ Fun fact: I enjoy turning random ideas into projects just to see if they work 😄
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankkkit_077) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sinha-299981312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhaankit.vfstr@gmail.com) 
